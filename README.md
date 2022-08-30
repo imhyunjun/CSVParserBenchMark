@@ -9,7 +9,7 @@ Unity에서의 CsvParser들의 성능 비교
 ## 목표 
 ---
 1. [Joel Verhagen](https://www.joelverhagen.com/blog/2020/12/fastest-net-csv-parsers)에서 표기된 Parser의 소요시간 차이가 유니티에서도 유지되는지 확인
-2. 각 타입별(string, bool, float, int32)에 대한 Parser들의 유니티에서의 소요시간이 비교
+2. 각 타입별(string, bool, float, int32)에 대한 Parser들의 유니티에서의 소요시간 비교
 
 <br/>
 
