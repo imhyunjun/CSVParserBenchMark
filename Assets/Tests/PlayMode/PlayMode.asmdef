@@ -1,0 +1,43 @@
+{
+    "name": "PlayMode",
+    "rootNamespace": "",
+    "references": [
+        "UnityEngine.TestRunner",
+        "UnityEditor.TestRunner",
+        "ParseTest"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [
+        "Android",
+        "EmbeddedLinux",
+        "GameCoreScarlett",
+        "GameCoreXboxOne",
+        "iOS",
+        "LinuxStandalone64",
+        "CloudRendering",
+        "Lumin",
+        "macOSStandalone",
+        "PS4",
+        "PS5",
+        "QNX",
+        "Stadia",
+        "Switch",
+        "tvOS",
+        "WSA",
+        "WebGL",
+        "WindowsStandalone32",
+        "WindowsStandalone64",
+        "XboxOne"
+    ],
+    "allowUnsafeCode": false,
+    "overrideReferences": true,
+    "precompiledReferences": [
+        "nunit.framework.dll"
+    ],
+    "autoReferenced": true,
+    "defineConstraints": [
+        "UNITY_INCLUDE_TESTS"
+    ],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
